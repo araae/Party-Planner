@@ -101,3 +101,5 @@ async function init() {
 }
 
 init();
+
+//i had to delete my first repo and transfer all the code there to this one, im not sure what i was doing haha
